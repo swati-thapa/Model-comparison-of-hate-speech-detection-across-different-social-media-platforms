@@ -4,3 +4,6 @@ In this project, my ultimate goal was to achieve a hate speech or non-hate speec
 
 
 My proposed model: 
+
+![Picture1](https://user-images.githubusercontent.com/30840805/201531326-8ad1d756-dee1-4181-909b-7ac5ec8b093e.jpg)
+
