@@ -1,0 +1,22 @@
+
+
+
+Instructions to run files: 
+
+1. First, please run preprocessing_and_EDA.ipynb file for the original dataset provided under original_files.
+2. After running the 1st step, clean files are generated; use those files for running the other three models. You can also skip step 1 and load files directly from clean_files folder.
+3. BERT_Baseline_model.ipynb contains model 1, BERT_embeddings+MLP_BiLSTM.ipynb contains model 3 and model 3.
+4. GLOVE_embeddings_LSTM.ipynb contains model 4 (proposed model).
+
+
+Results_output contains images of all the data distribution after preprocessing and each model evaluation score and confusion matrix.
+
+
+
+Code References:
+
+1. Thapa, S., 2022. NLP/lab-4.ipynb at main · swati-thapa/NLP. [online] GitHub. 
+Available at: <https://github.com/swati-thapa/NLP/blob/main/NN%20and%20NLP/lab-4.ipynb>.
+2. MACHADO, G., 2020. Hate Speech - BERT+CNN and BERT+MLP in Tensorflow. 
+[online] Kaggle.com. Available at: <https://www.kaggle.com/code/giovanimachado/hate-speech-bert-cnn-and-bert-mlp-in-tensorflow/notebook>.
+3. Huggingface.co. n.d. BERT. [online] Available at: <https://huggingface.co/docs/transformers/model_doc/bert>.
